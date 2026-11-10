@@ -1,3 +1,7 @@
+👋 Hi, I’m Davinder Singh
+👀 Machine Learning Engineer from India
+📫 How to reach me via email : singh.bun21@gmail.com
+
 <p align="center">
   <!-- Row 1 -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
